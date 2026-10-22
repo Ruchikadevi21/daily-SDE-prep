@@ -5,7 +5,7 @@ This repository serves as my daily code journal, tracking my consistency in prob
 
 <h4>📂 Repository Structure</h4>
 
-📁 dsa-leetcode — Daily algorithmic problem-solving categorized by patterns.
+📁 dsa-problem-tracking — Daily algorithmic problem-solving categorized by patterns.
 
 📁 core-java-practice — Advanced Java implementations covering Concurrency, Collections internals, Multithreading, and Java 8+ Streams.
 
