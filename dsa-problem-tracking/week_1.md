@@ -1,5 +1,5 @@
 # DSA Progress Tracker
 
-<span style="font-size: 24px; font-weight: bold;">Week 1: Arrays & Hashing</span>
+<h2>Week 1: Arrays & Hashing</h2>
 
 -> Two Sum Problem (Easy) - Oct 22
