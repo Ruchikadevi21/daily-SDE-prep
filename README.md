@@ -9,7 +9,7 @@ This repository serves as my daily code journal, tracking my consistency in prob
 
 📁 core-java-practice — Advanced Java implementations covering Concurrency, Collections internals, Multithreading, and Java 8+ Streams.
 
-📁 databases/ — SQL queries, JDBC code, and database management practice.
+📁 databases — SQL queries, JDBC code, and database management practice.
 
 📁 backend-snippets — Isolated code blocks, custom filters, and configuration tests for Spring Boot, Spring Security, JWT, Redis, and Apache Kafka.
 
