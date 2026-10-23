@@ -17,7 +17,7 @@ public class Arrays {
         }
 
         System.out.println();
-        System.out.println("JAGGED ARRAY ");
+        System.out.println ("JAGGED ARRAY ");
 
         int jaggedArray[][] = new int[3][];
         jaggedArray[0]=new int[3];
