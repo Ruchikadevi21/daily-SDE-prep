@@ -1,4 +1,4 @@
-package core_java_practice;
+
 
 public class Arrays {
     public static void main(String args[]){
@@ -34,6 +34,30 @@ public class Arrays {
                 System.out.print(m+" ");
             }
             System.out.println();
+        }
+
+        Student s1 = new Student("Ruchika", 1 , 98);
+        Student s2 = new Student("Kiran" , 2, 89);
+        Student s3 = new Student("Sonia" , 3, 56);
+
+        Student arr[] = new Student[3];
+        arr[0]=s1;
+        arr[1]=s2;
+        arr[2]=s3;
+
+        for(Student stu:arr){
+            System.out.println(stu.name+":" + stu.rollNo+":"+stu.marks);
+        }
+    }
+
+    static class Student{
+        String name;
+        int rollNo;
+        int marks;
+        public Student(String name, int rollNo, int marks){
+            this.marks=marks;
+            this.name = name;
+            this.rollNo=rollNo;
         }
     }
 }
