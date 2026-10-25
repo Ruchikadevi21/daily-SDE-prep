@@ -5,4 +5,5 @@
 <ul>
     <li>Two Sum Problem (Easy) - Oct 22</li>
     <li>Contains Duplicate (Easy) - Oct 23</li>
+    <li>Reverse Integer (Easy) - Oct 23 </li>
 </ul>
