@@ -39,11 +39,14 @@ public class Arrays {
         Student s1 = new Student("Ruchika", 1 , 98);
         Student s2 = new Student("Kiran" , 2, 89);
         Student s3 = new Student("Sonia" , 3, 56);
+        Student s4 = new Student("Simran", 9, 93);
 
-        Student arr[] = new Student[3];
+
+        Student arr[] = new Student[4];
         arr[0]=s1;
         arr[1]=s2;
         arr[2]=s3;
+        arr[3]=s4;
 
         for(Student stu:arr){
             System.out.println(stu.name+":" + stu.rollNo+":"+stu.marks);
