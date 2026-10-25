@@ -1,5 +1,3 @@
-
-
 public class Arrays {
     public static void main(String args[]){
 //        2D array using enhanced for loop
