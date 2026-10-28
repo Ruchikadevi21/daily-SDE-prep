@@ -4,7 +4,8 @@
 
 <ul>
     <li>Two Sum Problem (Easy) - Oct 22</li>
-    <li>Contains Duplicate (Easy) - Oct 22</li>
-    <li>Reverse Integer (Easy) - Oct 23 </li>
-    <li>Palindrome Number (Easy) - Oct 23</li>
+    <li>Contains Duplicate (Easy) - Oct 23</li>
+    <li>Reverse Integer (Easy) - Oct 25 </li>
+    <li>Palindrome Number (Easy) - Oct 26</li>
+    <li>Find pivot elements (Easy) - Oct 27</li>
 </ul>
